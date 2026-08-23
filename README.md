@@ -13,4 +13,7 @@ I also like:
 
 ## personal projects
 
-- [Leads Tracker (chrome extension)](https://github.com/pritam-soibam/projects-chrome-extension-leads-tracker)
+| Project | Repository | Live Demo |
+| ------- | ---------- | ---------- |
+| Leads Tracker (Chrome Extension) | [repo](https://github.com/pritam-soibam/project-leads-tracker) | | 
+| Unit Conversion | [repo](https://github.com/pritam-soibam/project-unit-conversion) | [nelify](https://pritam-soibam-unit-conversion.netlify.app/) |
