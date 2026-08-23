@@ -13,3 +13,4 @@ I also like:
 
 ## personal projects
 
+- [Leads Tracker (chrome extension)](https://github.com/pritam-soibam/projects-chrome-extension-leads-tracker)
