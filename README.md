@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @pritam.soibam
 - 👀 I’m interested in webapps, distributed systems
-- 🌱 I’m currently JavaScript, React
+- 🌱 I’m currently learning JavaScript, React
 - 💞️ I’m looking to collaborate on webapps
 - 📫 How to reach me [pritam.soibam@yahoo.com](mailto:pritam.soibam@yahoo.com)
 - 🫡 Sponser me [github.com/sponsors/pritam-soibam](https://github.com/sponsors/pritam-soibam)
