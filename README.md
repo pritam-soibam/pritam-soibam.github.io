@@ -9,8 +9,8 @@
 
 ## Projects
 
-| Project                                                                                    | Live Demo                                          |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| Project                                                                                    | Live Demo                                                                                        |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | [Leads Tracker (Chrome Extension)](https://github.com/pritam-soibam/project-leads-tracker) |
-| [Unit Conversion](https://github.com/pritam-soibam/project-unit-conversion)                | https://pritam-soibam-unit-conversion.netlify.app/ |
-| Leads Tracker (webapp)                                                                     | https://pritam-soibam-leads-tracker.netlify.app    |
+| [Unit Conversion](https://github.com/pritam-soibam/project-unit-conversion)                | [pritam-soibam-unit-conversion.netlify.app/](https://pritam-soibam-unit-conversion.netlify.app/) |
+| Leads Tracker (webapp)                                                                     | [pritam-soibam-leads-tracker.netlify.app/](https://pritam-soibam-leads-tracker.netlify.app/)     |
