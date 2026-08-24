@@ -1,5 +1,11 @@
 # My Portfolio
 
+- 👋 Hi, I’m @pritam.soibam
+- 👀 I’m interested in webapps, distributed systems
+- 🌱 I’m currently JavaScript, React
+- 💞️ I’m looking to collaborate on webapps
+- 📫 How to reach me pritam.soibam@yahoo.com
+
 ## Projects
 
 | Project                          | Repository                                                       | Live Demo                                                 |
