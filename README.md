@@ -5,7 +5,7 @@
 - 🌱 I’m currently JavaScript, React
 - 💞️ I’m looking to collaborate on webapps
 - 📫 How to reach me pritam.soibam@yahoo.com
-- 🫡 Sponser me https://github.com/sponsors/pritam-soibam
+- 🫡 Sponser me [github.com/sponsors/pritam-soibam](https://github.com/sponsors/pritam-soibam)
 
 ## Projects
 
