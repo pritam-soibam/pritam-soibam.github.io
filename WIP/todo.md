@@ -1,2 +1,0 @@
-- automate projectname, repo, live into a table & generate using react
-- 
